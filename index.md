@@ -1,6 +1,6 @@
 ## Test website
 
-Welcome to my website I don't know what I'm doing
+Welcome to my website, I don't know what I'm doing <3
 
 ### My favorite artists
 
