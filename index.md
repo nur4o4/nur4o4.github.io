@@ -9,7 +9,8 @@ Welcome to my website, I don't know what I'm doing <3
 3. Olivia Rodrigo
 4. the 1975 
 
-### Guitar cause I play
+### Guitar cause I play !
 ![A guitar](https://static.pexels.com/photos/64111/pexels-photo-64111.jpeg)
 
+### My guinea pigs<3
 ![my guinea pigs](gpgraze.jpg)
