@@ -10,4 +10,5 @@ Welcome to my website, I don't know what I'm doing <3
 4. the 1975 
 
 ### Guitar cause I play
-![A guitar](https://images.pexels.com/photos/1656415/pexels-photo-1656415.jpeg?cs=srgb&dl=pexels-lovely-ram-1656415.jpg&fm=jpg)
+![A guitar](https://static.pexels.com/photos/64111/pexels-photo-64111.jpeg)
+
